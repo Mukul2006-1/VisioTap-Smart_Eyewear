@@ -239,12 +239,6 @@ Please check the attached image.
 
 ---
 
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 # 👨‍💻 Author
 
 **Mukul**
